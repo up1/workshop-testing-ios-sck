@@ -1,0 +1,19 @@
+-  request:
+      method: GET
+      url: /us/rss/topmovies/limit=2/json
+ 
+   response:
+      status: 200
+      headers:
+         content-type: application/json
+      file: movie_2.json
+
+-  request:
+      method: GET
+      url: /us/rss/topmovies/limit=6/json
+ 
+   response:
+      status: 200
+      headers:
+         content-type: application/json
+      file: movie_6.json

@@ -1,0 +1,625 @@
+{
+    "feed": {
+      "author": {
+        "name": {
+          "label": "iTunes Store"
+        },
+        "uri": {
+          "label": "http://www.apple.com/itunes/"
+        }
+      },
+      "entry": [
+        {
+          "im:name": {
+            "label": "Shazam!"
+          },
+          "im:image": [
+            {
+              "label": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/23/0f/59/230f5931-7e26-1cbf-6900-e37660b44f1a/pr_source.lsr/39x60bb-85.png",
+              "attributes": {
+                "height": "60"
+              }
+            },
+            {
+              "label": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/23/0f/59/230f5931-7e26-1cbf-6900-e37660b44f1a/pr_source.lsr/39x60bb-85.png",
+              "attributes": {
+                "height": "60"
+              }
+            },
+            {
+              "label": "https://is4-ssl.mzstatic.com/image/thumb/Video123/v4/23/0f/59/230f5931-7e26-1cbf-6900-e37660b44f1a/pr_source.lsr/113x170bb-85.png",
+              "attributes": {
+                "height": "170"
+              }
+            }
+          ],
+          "summary": {
+            "label": "We all have a superhero inside us, it just takes a bit of magic to bring it out. In Billy Batson’s (Asher Angel) case, by shouting out one word—SHAZAM!—this streetwise 14-year-old foster kid can turn into the adult Super Hero Shazam (Zachary Levi), courtesy of an ancient wizard (Djimon Hounsou). Still a kid at heart—inside a ripped, godlike body—Shazam revels in this adult version of himself by doing what any teen would do with superpowers: have fun with them! Can he fly? Does he have X-ray vision? Can he shoot lightning out of his hands? Can he skip his social studies test? Shazam sets out to test the limits of his abilities with the joyful recklessness of a child. But he’ll need to master these powers quickly in order to fight the deadly forces of evil controlled by Dr. Thaddeus Sivana (Mark Strong)."
+          },
+          "im:price": {
+            "label": "$19.99",
+            "attributes": {
+              "amount": "19.99000",
+              "currency": "USD"
+            }
+          },
+          "im:contentType": {
+            "attributes": {
+              "term": "Movie",
+              "label": "Movie"
+            }
+          },
+          "rights": {
+            "label": "© 2019 Warner Bros. Entertainment Inc. SHAZAM! and all related characters and elements are trademarks of and copyright DC Comics."
+          },
+          "title": {
+            "label": "Shazam! - David F. Sandberg"
+          },
+          "link": [
+            {
+              "attributes": {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://itunes.apple.com/us/movie/shazam/id1456295500?uo=2"
+              }
+            },
+            {
+              "im:duration": {
+                "label": "147200.0"
+              },
+              "attributes": {
+                "title": "Preview",
+                "rel": "enclosure",
+                "type": "video/x-m4v",
+                "href": "https://video-ssl.itunes.apple.com/itunes-assets/Video123/v4/ab/61/a0/ab61a045-35de-938f-e26c-c8f72262f3c6/mzvf_3481097070621790720.640x356.h264lc.U.p.m4v",
+                "im:assetType": "preview"
+              }
+            }
+          ],
+          "id": {
+            "label": "https://itunes.apple.com/us/movie/shazam/id1456295500?uo=2",
+            "attributes": {
+              "im:id": "1456295500"
+            }
+          },
+          "im:artist": {
+            "label": "David F. Sandberg"
+          },
+          "category": {
+            "attributes": {
+              "im:id": "4401",
+              "term": "Action & Adventure",
+              "scheme": "https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2",
+              "label": "Action & Adventure"
+            }
+          },
+          "im:releaseDate": {
+            "label": "2019-04-05T00:00:00-07:00",
+            "attributes": {
+              "label": "April 5, 2019"
+            }
+          }
+        },
+        {
+          "im:name": {
+            "label": "Dumbo"
+          },
+          "rights": {
+            "label": "© 2019 Disney Enterprises, Inc. All Rights Reserved."
+          },
+          "im:image": [
+            {
+              "label": "https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/db/66/43/db6643a6-e6b7-68c4-0689-cab27a7e4633/pr_source.lsr/39x60bb-85.png",
+              "attributes": {
+                "height": "60"
+              }
+            },
+            {
+              "label": "https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/db/66/43/db6643a6-e6b7-68c4-0689-cab27a7e4633/pr_source.lsr/39x60bb-85.png",
+              "attributes": {
+                "height": "60"
+              }
+            },
+            {
+              "label": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/db/66/43/db6643a6-e6b7-68c4-0689-cab27a7e4633/pr_source.lsr/113x170bb-85.png",
+              "attributes": {
+                "height": "170"
+              }
+            }
+          ],
+          "summary": {
+            "label": "From Disney and visionary director Tim Burton, the grand live-action adventure Dumbo expands on the beloved classic story where differences are celebrated, family is cherished and dreams take flight. Circus owner Max Medici (Danny DeVito) enlists former star Holt Farrier (Colin Farrell) and his children to care for a newborn elephant whose oversized ears make him a laughingstock in an already struggling circus. But when they discover that Dumbo can fly, the circus makes an incredible comeback, attracting persuasive entrepreneur V. A. Vandevere (Michael Keaton), who recruits the peculiar pachyderm for his newest, larger-than-life entertainment venture, Dreamland. Dumbo soars to new heights alongside the charming and spectacular aerial artist Colette Marchant (Eva Green)—until Holt learns that beneath its shiny veneer, Dreamland is full of dark secrets."
+          },
+          "im:rentalPrice": {
+            "label": "$4.99",
+            "attributes": {
+              "amount": "4.99000",
+              "currency": "USD"
+            }
+          },
+          "im:price": {
+            "label": "$19.99",
+            "attributes": {
+              "amount": "19.99000",
+              "currency": "USD"
+            }
+          },
+          "im:contentType": {
+            "attributes": {
+              "term": "Movie",
+              "label": "Movie"
+            }
+          },
+          "title": {
+            "label": "Dumbo - Tim Burton"
+          },
+          "link": [
+            {
+              "attributes": {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://itunes.apple.com/us/movie/dumbo/id1456335626?uo=2"
+              }
+            },
+            {
+              "im:duration": {
+                "label": "62065.0"
+              },
+              "attributes": {
+                "title": "Preview",
+                "rel": "enclosure",
+                "type": "video/x-m4v",
+                "href": "https://video-ssl.itunes.apple.com/itunes-assets/Video113/v4/26/c5/7f/26c57f6b-456b-a445-a732-37281eca9957/mzvf_1055920804811008062.640x460.h264lc.U.p.m4v",
+                "im:assetType": "preview"
+              }
+            }
+          ],
+          "id": {
+            "label": "https://itunes.apple.com/us/movie/dumbo/id1456335626?uo=2",
+            "attributes": {
+              "im:id": "1456335626"
+            }
+          },
+          "im:artist": {
+            "label": "Tim Burton"
+          },
+          "category": {
+            "attributes": {
+              "im:id": "4410",
+              "term": "Kids & Family",
+              "scheme": "https://itunes.apple.com/us/genre/movies-kids-family/id4410?uo=2",
+              "label": "Kids & Family"
+            }
+          },
+          "im:releaseDate": {
+            "label": "2019-03-29T00:00:00-07:00",
+            "attributes": {
+              "label": "March 29, 2019"
+            }
+          }
+        },
+        {
+          "im:name": {
+            "label": "Captain Marvel"
+          },
+          "rights": {
+            "label": "© 2019 Marvel"
+          },
+          "im:image": [
+            {
+              "label": "https://is3-ssl.mzstatic.com/image/thumb/Video113/v4/1c/bc/19/1cbc1916-86bd-d114-3c2a-fc088139e224/pr_source.lsr/39x60bb-85.png",
+              "attributes": {
+                "height": "60"
+              }
+            },
+            {
+              "label": "https://is3-ssl.mzstatic.com/image/thumb/Video113/v4/1c/bc/19/1cbc1916-86bd-d114-3c2a-fc088139e224/pr_source.lsr/39x60bb-85.png",
+              "attributes": {
+                "height": "60"
+              }
+            },
+            {
+              "label": "https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/1c/bc/19/1cbc1916-86bd-d114-3c2a-fc088139e224/pr_source.lsr/113x170bb-85.png",
+              "attributes": {
+                "height": "170"
+              }
+            }
+          ],
+          "summary": {
+            "label": "Marvel Studios’ Captain Marvel takes you on a spectacular adventure from the 1990s, tracing the path of Carol Danvers (Brie Larson) as she becomes one of the most powerful heroes in the universe. When a galactic war reaches Earth, she meets young agent Nick Fury (Samuel L. Jackson) at the center of a maelstrom, leading to her ultimate destiny as an Avenger!"
+          },
+          "im:rentalPrice": {
+            "label": "$4.99",
+            "attributes": {
+              "amount": "4.99000",
+              "currency": "USD"
+            }
+          },
+          "im:price": {
+            "label": "$19.99",
+            "attributes": {
+              "amount": "19.99000",
+              "currency": "USD"
+            }
+          },
+          "im:contentType": {
+            "attributes": {
+              "term": "Movie",
+              "label": "Movie"
+            }
+          },
+          "title": {
+            "label": "Captain Marvel - Anna Boden & Ryan Fleck"
+          },
+          "link": [
+            {
+              "attributes": {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://itunes.apple.com/us/movie/captain-marvel/id1453792625?uo=2"
+              }
+            },
+            {
+              "im:duration": {
+                "label": "138943.0"
+              },
+              "attributes": {
+                "title": "Preview",
+                "rel": "enclosure",
+                "type": "video/x-m4v",
+                "href": "https://video-ssl.itunes.apple.com/itunes-assets/Video123/v4/d0/82/35/d08235df-f75c-a7da-559d-1b0622687af1/mzvf_3013349080441859076.640x356.h264lc.U.p.m4v",
+                "im:assetType": "preview"
+              }
+            }
+          ],
+          "id": {
+            "label": "https://itunes.apple.com/us/movie/captain-marvel/id1453792625?uo=2",
+            "attributes": {
+              "im:id": "1453792625"
+            }
+          },
+          "im:artist": {
+            "label": "Anna Boden & Ryan Fleck"
+          },
+          "category": {
+            "attributes": {
+              "im:id": "4401",
+              "term": "Action & Adventure",
+              "scheme": "https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2",
+              "label": "Action & Adventure"
+            }
+          },
+          "im:releaseDate": {
+            "label": "2019-03-08T00:00:00-07:00",
+            "attributes": {
+              "label": "March 8, 2019"
+            }
+          }
+        },
+        {
+          "im:name": {
+            "label": "Spider-Man: Homecoming"
+          },
+          "rights": {
+            "label": "© 2017 Columbia Pictures Industries, Inc. and LSC Film Corporation. All Rights Reserved. | MARVEL and all related character names: © & ™ 2017 MARVEL."
+          },
+          "im:image": [
+            {
+              "label": "https://is5-ssl.mzstatic.com/image/thumb/Video127/v4/cc/38/68/cc386876-9503-24bc-fa39-cb5b567e5c5b/pr_source.lsr/39x60bb-85.png",
+              "attributes": {
+                "height": "60"
+              }
+            },
+            {
+              "label": "https://is5-ssl.mzstatic.com/image/thumb/Video127/v4/cc/38/68/cc386876-9503-24bc-fa39-cb5b567e5c5b/pr_source.lsr/39x60bb-85.png",
+              "attributes": {
+                "height": "60"
+              }
+            },
+            {
+              "label": "https://is3-ssl.mzstatic.com/image/thumb/Video127/v4/cc/38/68/cc386876-9503-24bc-fa39-cb5b567e5c5b/pr_source.lsr/113x170bb-85.png",
+              "attributes": {
+                "height": "170"
+              }
+            }
+          ],
+          "summary": {
+            "label": "Spider-Man [Tom Holland] begins to navigate his new identity as the web-slinging super hero under the watchful eye of his mentor Tony Stark."
+          },
+          "im:rentalPrice": {
+            "label": "$3.99",
+            "attributes": {
+              "amount": "3.99000",
+              "currency": "USD"
+            }
+          },
+          "im:price": {
+            "label": "$9.99",
+            "attributes": {
+              "amount": "9.99000",
+              "currency": "USD"
+            }
+          },
+          "im:contentType": {
+            "attributes": {
+              "term": "Movie",
+              "label": "Movie"
+            }
+          },
+          "title": {
+            "label": "Spider-Man: Homecoming - Jon Watts"
+          },
+          "link": [
+            {
+              "attributes": {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://itunes.apple.com/us/movie/spider-man-homecoming/id1243195844?uo=2"
+              }
+            },
+            {
+              "im:duration": {
+                "label": "145792.0"
+              },
+              "attributes": {
+                "title": "Preview",
+                "rel": "enclosure",
+                "type": "video/x-m4v",
+                "href": "https://video-ssl.itunes.apple.com/itunes-assets/Video117/v4/2c/f6/e6/2cf6e630-8f12-e721-c80d-b689aa8f9804/mzvf_1371130011356140075.640x354.h264lc.U.p.m4v",
+                "im:assetType": "preview"
+              }
+            }
+          ],
+          "id": {
+            "label": "https://itunes.apple.com/us/movie/spider-man-homecoming/id1243195844?uo=2",
+            "attributes": {
+              "im:id": "1243195844"
+            }
+          },
+          "im:artist": {
+            "label": "Jon Watts"
+          },
+          "category": {
+            "attributes": {
+              "im:id": "4401",
+              "term": "Action & Adventure",
+              "scheme": "https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2",
+              "label": "Action & Adventure"
+            }
+          },
+          "im:releaseDate": {
+            "label": "2017-07-07T00:00:00-07:00",
+            "attributes": {
+              "label": "July 7, 2017"
+            }
+          }
+        },
+        {
+          "im:name": {
+            "label": "Escape Plan: The Extractors"
+          },
+          "rights": {
+            "label": "© 2018 GEORGIA FILM FUND 63, LLC. ARTWORK & SUPPLEMENTARY MATERIALS 2019 SUMMIT ENTERTAINMENT, LLC. ALL RIGHTS RESERVED."
+          },
+          "im:image": [
+            {
+              "label": "https://is2-ssl.mzstatic.com/image/thumb/Video123/v4/82/ba/24/82ba2425-a1af-9d84-c682-fe9074c0f69b/1620573236463.jpg/39x60bb-85.png",
+              "attributes": {
+                "height": "60"
+              }
+            },
+            {
+              "label": "https://is2-ssl.mzstatic.com/image/thumb/Video123/v4/82/ba/24/82ba2425-a1af-9d84-c682-fe9074c0f69b/1620573236463.jpg/39x60bb-85.png",
+              "attributes": {
+                "height": "60"
+              }
+            },
+            {
+              "label": "https://is2-ssl.mzstatic.com/image/thumb/Video123/v4/82/ba/24/82ba2425-a1af-9d84-c682-fe9074c0f69b/1620573236463.jpg/113x170bb-85.png",
+              "attributes": {
+                "height": "170"
+              }
+            }
+          ],
+          "summary": {
+            "label": "Screen legend Sylvester Stallone kicks this explosive action tale into high gear. After security expert Ray Breslin (Stallone) is hired to rescue the kidnapped daughter of a Hong Kong tech mogul from a formidable Latvian prison, Breslin’s girlfriend (Jaime King) is also captured. Now he and his team, which includes Dave Bautista and Curtis \"50 Cent\" Jackson, must pull off a deadly rescue mission to confront their sadistic foe and save the hostages before time runs out."
+          },
+          "im:rentalPrice": {
+            "label": "$5.99",
+            "attributes": {
+              "amount": "5.99000",
+              "currency": "USD"
+            }
+          },
+          "im:price": {
+            "label": "$9.99",
+            "attributes": {
+              "amount": "9.99000",
+              "currency": "USD"
+            }
+          },
+          "im:contentType": {
+            "attributes": {
+              "term": "Movie",
+              "label": "Movie"
+            }
+          },
+          "title": {
+            "label": "Escape Plan: The Extractors - John Herzfeld"
+          },
+          "link": [
+            {
+              "attributes": {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://itunes.apple.com/us/movie/escape-plan-the-extractors/id1467057693?uo=2"
+              }
+            },
+            {
+              "im:duration": {
+                "label": "147700.0"
+              },
+              "attributes": {
+                "title": "Preview",
+                "rel": "enclosure",
+                "type": "video/x-m4v",
+                "href": "https://video-ssl.itunes.apple.com/itunes-assets/Video113/v4/be/e5/4c/bee54c17-260e-4171-e158-e01abf710c55/mzvf_3675901167751698301.640x352.h264lc.U.p.m4v",
+                "im:assetType": "preview"
+              }
+            }
+          ],
+          "id": {
+            "label": "https://itunes.apple.com/us/movie/escape-plan-the-extractors/id1467057693?uo=2",
+            "attributes": {
+              "im:id": "1467057693"
+            }
+          },
+          "im:artist": {
+            "label": "John Herzfeld"
+          },
+          "category": {
+            "attributes": {
+              "im:id": "4401",
+              "term": "Action & Adventure",
+              "scheme": "https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2",
+              "label": "Action & Adventure"
+            }
+          },
+          "im:releaseDate": {
+            "label": "2019-07-02T00:00:00-07:00",
+            "attributes": {
+              "label": "July 2, 2019"
+            }
+          }
+        },
+        {
+          "im:name": {
+            "label": "Plus One"
+          },
+          "rights": {
+            "label": "© 2019 Plus One Productions, LLC. All Rights Reserved."
+          },
+          "im:image": [
+            {
+              "label": "https://is2-ssl.mzstatic.com/image/thumb/Video113/v4/75/18/1a/75181a2f-7808-d756-7268-e689c5794a4f/pr_source.lsr/39x60bb-85.png",
+              "attributes": {
+                "height": "60"
+              }
+            },
+            {
+              "label": "https://is2-ssl.mzstatic.com/image/thumb/Video113/v4/75/18/1a/75181a2f-7808-d756-7268-e689c5794a4f/pr_source.lsr/39x60bb-85.png",
+              "attributes": {
+                "height": "60"
+              }
+            },
+            {
+              "label": "https://is3-ssl.mzstatic.com/image/thumb/Video113/v4/75/18/1a/75181a2f-7808-d756-7268-e689c5794a4f/pr_source.lsr/113x170bb-85.png",
+              "attributes": {
+                "height": "170"
+              }
+            }
+          ],
+          "summary": {
+            "label": "IN THEATERS NOW: From Executive Producer Ben Stiller, long-time friends Alice and Ben find themselves in that inevitable year that all late 20-somethings experience—in which seemingly every person they know gets married—and agree to be one another’s plus ones as they power through an endless parade of insufferable weddings. Winner of the Tribeca Film Festival Audience Award, PLUS ONE stars Maya Erskine (“PEN15”), Jack Quaid (“The Boys”), Beck Bennett (“Saturday Night Live”), Rosalind Chao (The Joy Luck Club) and Ed Begley Jr. (A Mighty Wind), PLUS ONE is “sharp, raunchy, and altogether winning” (SlashFilm)."
+          },
+          "im:rentalPrice": {
+            "label": "$6.99",
+            "attributes": {
+              "amount": "6.99000",
+              "currency": "USD"
+            }
+          },
+          "im:price": {
+            "label": "$14.99",
+            "attributes": {
+              "amount": "14.99000",
+              "currency": "USD"
+            }
+          },
+          "im:contentType": {
+            "attributes": {
+              "term": "Movie",
+              "label": "Movie"
+            }
+          },
+          "title": {
+            "label": "Plus One - Unknown"
+          },
+          "link": [
+            {
+              "attributes": {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://itunes.apple.com/us/movie/plus-one/id1464592333?uo=2"
+              }
+            },
+            {
+              "im:duration": {
+                "label": "134860.0"
+              },
+              "attributes": {
+                "title": "Preview",
+                "rel": "enclosure",
+                "type": "video/x-m4v",
+                "href": "https://video-ssl.itunes.apple.com/itunes-assets/Video123/v4/86/60/70/86607036-10c6-6a13-e27b-cfb5160af914/mzvf_1751166780414770767.640x352.h264lc.U.p.m4v",
+                "im:assetType": "preview"
+              }
+            }
+          ],
+          "id": {
+            "label": "https://itunes.apple.com/us/movie/plus-one/id1464592333?uo=2",
+            "attributes": {
+              "im:id": "1464592333"
+            }
+          },
+          "im:artist": {
+            "label": "Unknown"
+          },
+          "category": {
+            "attributes": {
+              "im:id": "4404",
+              "term": "Comedy",
+              "scheme": "https://itunes.apple.com/us/genre/movies-comedy/id4404?uo=2",
+              "label": "Comedy"
+            }
+          },
+          "im:releaseDate": {
+            "label": "2019-06-14T00:00:00-07:00",
+            "attributes": {
+              "label": "June 14, 2019"
+            }
+          }
+        }
+      ],
+      "updated": {
+        "label": "2019-07-06T03:25:19-07:00"
+      },
+      "rights": {
+        "label": "Copyright 2008 Apple Inc."
+      },
+      "title": {
+        "label": "iTunes Store: Top Movies"
+      },
+      "icon": {
+        "label": "http://itunes.apple.com/favicon.ico"
+      },
+      "link": [
+        {
+          "attributes": {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=us&id=1&popId=15"
+          }
+        },
+        {
+          "attributes": {
+            "rel": "self",
+            "href": "https://itunes.apple.com/us/rss/topmovies/limit=6/json"
+          }
+        }
+      ],
+      "id": {
+        "label": "https://itunes.apple.com/us/rss/topmovies/limit=6/json"
+      }
+    }
+  }
